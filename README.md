@@ -4,7 +4,7 @@
 
 近年來，由於科技創新產生通訊、傳播匯流（convergence），不同傳輸技術已可提供相同之內容服務，造成現行依傳播媒體屬性垂直立法管理的模式受到衝擊，世界先進國家紛紛檢討修正其通傳媒體管制架構，以符合匯流趨勢發展。
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1A5ymJcjZaOMsD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/uz9AfY26nLhuzj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 ## 立法考量
 
